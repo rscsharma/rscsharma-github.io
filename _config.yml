@@ -1,0 +1,9 @@
+# Site settings
+title: I am Ritesh
+author:
+  name: Ritesh Sharma
+  email: rscsharma@gmail.com
+description: "Great site about Jekyll on GH-Pages."
+
+# Build settings
+remote_theme: jekyll/minima
